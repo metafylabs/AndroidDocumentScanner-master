@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: ru.superjob:kotlin-permissions:1.0.3@aar">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../AndroidStudioProjects/SmartCropperSample-master/SmartCropperSample-master/.gradle/caches/transforms-3/276c181241e46bbe3010950446d7eeae/transformed/jetified-kotlin-permissions-1.0.3/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/../AndroidStudioProjects/SmartCropperSample-master/SmartCropperSample-master/.gradle/caches/transforms-3/276c181241e46bbe3010950446d7eeae/transformed/jetified-kotlin-permissions-1.0.3/res" />
+      <root url="file://$PROJECT_DIR$/../AndroidStudioProjects/SmartCropperSample-master/SmartCropperSample-master/.gradle/caches/transforms-3/276c181241e46bbe3010950446d7eeae/transformed/jetified-kotlin-permissions-1.0.3/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../AndroidStudioProjects/SmartCropperSample-master/SmartCropperSample-master/.gradle/caches/modules-2/files-2.1/ru.superjob/kotlin-permissions/1.0.3/d8376f86a35a3a0616edc33d680348f48a7bfa38/kotlin-permissions-1.0.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

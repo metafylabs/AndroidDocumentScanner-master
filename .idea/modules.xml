@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/AndroidDocumentScanner-master.iml" filepath="$PROJECT_DIR$/.idea/AndroidDocumentScanner-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidDocumentScanner-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidDocumentScanner-master.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidDocumentScanner-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidDocumentScanner-master.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidDocumentScanner-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidDocumentScanner-master.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidDocumentScanner-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidDocumentScanner-master.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/documentscanner/AndroidDocumentScanner-master.imagecropperlib.iml" filepath="$PROJECT_DIR$/.idea/modules/documentscanner/AndroidDocumentScanner-master.imagecropperlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagecropperlib/AndroidDocumentScanner-master.imagecropperlib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imagecropperlib/AndroidDocumentScanner-master.imagecropperlib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagecropperlib/AndroidDocumentScanner-master.imagecropperlib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/imagecropperlib/AndroidDocumentScanner-master.imagecropperlib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagecropperlib/AndroidDocumentScanner-master.imagecropperlib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imagecropperlib/AndroidDocumentScanner-master.imagecropperlib.unitTest.iml" />
+    </modules>
+  </component>
+</project>
