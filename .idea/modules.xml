@@ -2,15 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/AndroidDocumentScanner-master.iml" filepath="$PROJECT_DIR$/.idea/AndroidDocumentScanner-master.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidDocumentScanner-master.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidDocumentScanner-master.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidDocumentScanner-master.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidDocumentScanner-master.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidDocumentScanner-master.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidDocumentScanner-master.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/AndroidDocumentScanner-master.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/AndroidDocumentScanner-master.app.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/documentscanner/AndroidDocumentScanner-master.imagecropperlib.iml" filepath="$PROJECT_DIR$/.idea/modules/documentscanner/AndroidDocumentScanner-master.imagecropperlib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagecropperlib/AndroidDocumentScanner-master.imagecropperlib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imagecropperlib/AndroidDocumentScanner-master.imagecropperlib.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagecropperlib/AndroidDocumentScanner-master.imagecropperlib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/imagecropperlib/AndroidDocumentScanner-master.imagecropperlib.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagecropperlib/AndroidDocumentScanner-master.imagecropperlib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imagecropperlib/AndroidDocumentScanner-master.imagecropperlib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Imagecropper-Library.iml" filepath="$PROJECT_DIR$/.idea/modules/Imagecropper-Library.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Imagecropper-Library.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Imagecropper-Library.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Imagecropper-Library.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Imagecropper-Library.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Imagecropper-Library.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Imagecropper-Library.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Imagecropper-Library.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Imagecropper-Library.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagecropperlib/Imagecropper-Library.imagecropperlib.iml" filepath="$PROJECT_DIR$/.idea/modules/imagecropperlib/Imagecropper-Library.imagecropperlib.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagecropperlib/Imagecropper-Library.imagecropperlib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imagecropperlib/Imagecropper-Library.imagecropperlib.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagecropperlib/Imagecropper-Library.imagecropperlib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/imagecropperlib/Imagecropper-Library.imagecropperlib.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagecropperlib/Imagecropper-Library.imagecropperlib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imagecropperlib/Imagecropper-Library.imagecropperlib.unitTest.iml" />
     </modules>
   </component>
 </project>
