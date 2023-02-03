@@ -1,6 +1,5 @@
 apply plugin: 'com.android.library'
 apply plugin: 'kotlin-android'
-group = 'com.github.mayuce'
 android {
     compileSdkVersion 31
 

@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Imagecropper-Library.iml" filepath="$PROJECT_DIR$/.idea/modules/Imagecropper-Library.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Imagecropper-Library.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Imagecropper-Library.app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Imagecropper-Library.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Imagecropper-Library.app.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Imagecropper-Library.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Imagecropper-Library.app.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Imagecropper-Library.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Imagecropper-Library.app.unitTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagecropperlib/Imagecropper-Library.imagecropperlib.iml" filepath="$PROJECT_DIR$/.idea/modules/imagecropperlib/Imagecropper-Library.imagecropperlib.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagecropperlib/Imagecropper-Library.imagecropperlib.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imagecropperlib/Imagecropper-Library.imagecropperlib.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagecropperlib/Imagecropper-Library.imagecropperlib.main.iml" filepath="$PROJECT_DIR$/.idea/modules/imagecropperlib/Imagecropper-Library.imagecropperlib.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/imagecropperlib/Imagecropper-Library.imagecropperlib.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/imagecropperlib/Imagecropper-Library.imagecropperlib.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Imagecropper-Library.iml" filepath="$PROJECT_DIR$/.idea/Imagecropper-Library.iml" />
     </modules>
   </component>
 </project>
