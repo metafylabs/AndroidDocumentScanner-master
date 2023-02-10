@@ -16,10 +16,10 @@ Add it in your root build.gradle at the end of repositories:
 			maven { url 'https://jitpack.io' }
 		}
 	}
-Step 2. Add the dependency
+Step 2. Add the dependency [![](https://jitpack.io/v/metafylabs/Imagecropper-Library.svg)](https://jitpack.io/#metafylabs/Imagecropper-Library)
+
 
 	dependencies {
 	        implementation 'com.github.metafylabs:Imagecropper-Library:Tag'
 	}
 
-[![](https://jitpack.io/v/metafylabs/Imagecropper-Library.svg)](https://jitpack.io/#metafylabs/Imagecropper-Library)
