@@ -21,3 +21,5 @@ Step 2. Add the dependency
 	dependencies {
 	        implementation 'com.github.metafylabs:Imagecropper-Library:Tag'
 	}
+
+[![](https://jitpack.io/v/metafylabs/Imagecropper-Library.svg)](https://jitpack.io/#metafylabs/Imagecropper-Library)
