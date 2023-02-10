@@ -1,4 +1,4 @@
-# Imagecropper-Library [![](https://jitpack.io/v/metafylabs/Imagecropper-Library.svg)](https://jitpack.io/#metafylabs/Imagecropper-Library)
+# Imagecropper-Library [![]](https://jitpack.io/#metafylabs/Imagecropper-Library)
 
 
 To get a Git project into your build:
