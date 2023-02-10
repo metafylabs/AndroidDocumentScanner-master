@@ -1,5 +1,5 @@
-[![](https://jitpack.io/v/metafylabs/Imagecropper-Library.svg)](https://jitpack.io/#metafylabs/Imagecropper-Library)
 To get a Git project into your build:
+[![](https://jitpack.io/v/metafylabs/Imagecropper-Library.svg)](https://jitpack.io/#metafylabs/Imagecropper-Library)
 
 Step 1. Add the JitPack repository to your build file
 
