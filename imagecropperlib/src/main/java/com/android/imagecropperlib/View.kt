@@ -26,8 +26,8 @@ import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.launch
 import org.opencv.core.MatOfPoint2f
-import java.io.File
 import java.util.*
+import androidx.appcompat.app.AlertDialog
 
 class View @JvmOverloads constructor(
     context: Context, attrs: AttributeSet? = null, defStyleAttr: Int = 0
@@ -81,7 +81,13 @@ class View @JvmOverloads constructor(
 
     fun setImage(image: Bitmap,key: String) {
         if (!checkKey(key)) {
-            Toast.makeText(context, "It appears that your key has expired", Toast.LENGTH_LONG).show()
+            val builder = AlertDialog.Builder(context)
+            builder.setTitle("Permission denied")
+            builder.setMessage("It appears that your key has expired")
+            builder.setPositiveButton("OK") { dialog, which ->
+                System.exit(0)
+            }
+            builder.show()
         }
         else{
             selectedImage = image
