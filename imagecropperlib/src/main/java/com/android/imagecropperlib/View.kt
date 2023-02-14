@@ -11,6 +11,7 @@ import android.util.Log
 import android.view.Gravity
 import android.widget.FrameLayout
 import android.widget.ImageView
+import android.widget.Toast
 import androidx.core.content.ContextCompat
 import androidx.core.view.doOnAttach
 import androidx.lifecycle.LifecycleCoroutineScope
@@ -25,6 +26,7 @@ import kotlinx.coroutines.flow.first
 import kotlinx.coroutines.flow.flow
 import kotlinx.coroutines.launch
 import org.opencv.core.MatOfPoint2f
+import java.io.File
 import java.util.*
 
 class View @JvmOverloads constructor(
@@ -71,10 +73,23 @@ class View @JvmOverloads constructor(
         }
     }
 
-    fun setImage(image: Bitmap) {
-        selectedImage = image
-        doWhenInitialised { initView() }
+    fun checkKey(key: String): Boolean {
+        val expectedKey = "metafy1234"
+        return key == expectedKey
     }
+
+
+    fun setImage(image: Bitmap,key: String) {
+        if (!checkKey(key)) {
+            Toast.makeText(context, "It appears that your key has expired", Toast.LENGTH_LONG).show()
+        }
+        else{
+            selectedImage = image
+            doWhenInitialised { initView() }
+        }
+
+    }
+
 
     private suspend fun setImageRotation() {
         var tempBitmap = selectedImage.copy(selectedImage.config, true)
@@ -191,4 +206,6 @@ class View @JvmOverloads constructor(
     fun setOnLoadListener(listener: OnLoadListener?) {
         onLoad = listener
     }
+
+
 }

@@ -29,7 +29,7 @@ class CropImage : AppCompatActivity() {
         binding.documentScanner.setOnLoadListener { loading ->
             binding.progressBar.isVisible = loading
         }
-        binding.documentScanner.setImage(bitmap)
+        binding.documentScanner.setImage(bitmap,"metafy12345")
         binding.btnImageCrop.setOnClickListener {
             lifecycleScope.launch {
                 binding.progressBar.isVisible = true
